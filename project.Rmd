@@ -80,7 +80,7 @@ Let's use ggplot2 to re-create the plot we saw earlier.
 
 ```{r}
 # put your R code in this code chunk
-z_scores |> 
+z_scores %>% 
   _______ + 
   # pick a geom to use
   _______(
